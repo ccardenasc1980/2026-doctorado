@@ -1,0 +1,3 @@
+DATOS SIMULADOS - NO CITAR
+n = 160
+Correlación de Spearman IGP-IMD: rho = 0.411

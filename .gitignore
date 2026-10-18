@@ -1,0 +1,32 @@
+# ============================================================
+# PROTECCIÓN DE DATOS — estas rutas NUNCA se suben a GitHub
+# (Ley 29733 de Protección de Datos Personales; consentimiento informado)
+# ============================================================
+
+# Documentos firmados, autorizaciones y consentimientos
+00_ADMIN/
+
+# Datos crudos identificables (catastro, padrones, expedientes, encuestas, audios)
+01_DATOS_CRUDOS/
+
+# Tabla que vincula los códigos anónimos (ORG-001) con RUC / nombres reales
+02_DATOS_PROCESADOS/tabla_llaves*.csv
+02_DATOS_PROCESADOS/*_identificado*.csv
+
+# PDFs con derechos reservados o licencia no abierta
+07_BIBLIOGRAFIA/pdf_restringidos/
+
+# ============================================================
+# Archivos de sistema y temporales
+# ============================================================
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.venv/

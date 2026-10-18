@@ -1,0 +1,161 @@
+org_id,zona_produccion,provincia,tipo_organizacion,formalidad,tiene_concesion,area_ha,n_socios,gp_seleccion,gp_priorizacion,gp_gobernanza,gp_beneficios,md_trazabilidad,md_registro,md_monitoreo,md_interoperabilidad,md_uso_datos,md_capacidades,md_continuidad
+ORG-001,San Pedro,Sechura,OSPA,Informal,0,0.0,35,3,2,3,3,1,3,2,2,2,1,1
+ORG-002,Puerto Rico,Sechura,OSPA,Formal,1,7.9,43,4,2,4,4,2,2,1,1,1,1,1
+ORG-003,Parachique,Sechura,OSPA,Formal,1,0.8,50,2,3,4,2,2,2,1,2,2,3,2
+ORG-004,Matacaballo,Sechura,OSPA,Informal,0,0.0,15,3,3,3,2,2,4,4,3,2,2,3
+ORG-005,Chulliyachi,Sechura,OSPA,Formal,1,5.7,14,2,3,2,4,3,3,2,2,2,1,2
+ORG-006,Nonura,Sechura,AMYPE,Formal,1,7.1,31,1,1,2,1,1,1,1,1,1,1,1
+ORG-007,Parachique,Sechura,AMYGE,Informal,0,0.0,45,2,2,2,1,1,1,1,2,1,1,1
+ORG-008,San Pedro,Sechura,OSPA,Formal,1,16.1,51,1,4,2,2,3,2,1,1,1,1,1
+ORG-009,Parachique,Sechura,OSPA,Formal,1,6.2,31,3,2,2,2,2,3,3,2,3,2,3
+ORG-010,Barrancos,Sechura,OSPA,Formal,1,4.0,51,2,3,4,3,3,1,3,1,2,2,4
+ORG-011,Nonura,Sechura,Empresa,Formal,1,21.9,17,2,1,2,1,4,1,2,2,1,2,1
+ORG-012,Parachique,Sechura,AMYGE,Formal,1,11.7,44,3,2,2,1,3,3,2,4,3,3,3
+ORG-013,Barrancos,Sechura,OSPA,Informal,0,0.0,43,2,3,1,2,3,2,3,2,3,3,2
+ORG-014,San Pedro,Sechura,AMYPE,Informal,0,0.0,50,2,3,2,2,1,2,1,2,2,1,1
+ORG-015,Las Delicias,Sechura,OSPA,Informal,0,0.0,8,1,1,2,1,3,2,2,3,2,3,1
+ORG-016,Las Delicias,Sechura,AMYPE,Formal,1,8.0,43,2,2,2,3,1,2,3,1,2,2,1
+ORG-017,San Pedro,Sechura,OSPA,Informal,0,0.0,35,1,2,3,2,1,2,1,1,1,2,2
+ORG-018,San Pedro,Sechura,OSPA,Formal,1,8.7,51,3,2,2,2,2,2,1,2,2,2,2
+ORG-019,San Pedro,Sechura,OSPA,Informal,0,0.0,51,1,2,2,1,1,1,2,1,2,1,2
+ORG-020,San Pedro,Sechura,OSPA,Formal,1,4.8,26,2,1,2,1,2,2,2,2,2,2,2
+ORG-021,Chulliyachi,Sechura,OSPA,Informal,0,0.0,37,3,2,2,1,3,1,2,3,3,3,3
+ORG-022,San Pedro,Sechura,OSPA,Informal,0,0.0,11,2,2,2,1,2,1,1,3,1,2,2
+ORG-023,Matacaballo,Sechura,OSPA,Informal,0,0.0,13,3,2,1,3,1,1,2,1,1,1,2
+ORG-024,Nonura,Sechura,OSPA,Informal,0,0.0,12,2,1,1,1,3,2,3,2,2,2,3
+ORG-025,Vichayo,Sechura,OSPA,Formal,1,15.5,41,2,1,1,1,3,1,2,2,1,2,1
+ORG-026,Barrancos,Sechura,OSPA,Informal,0,0.0,38,2,3,3,3,2,4,3,2,2,4,2
+ORG-027,Parachique,Sechura,OSPA,Informal,0,0.0,55,2,1,1,1,2,2,1,1,1,1,2
+ORG-028,Vichayo,Sechura,OSPA,Formal,1,11.2,8,4,3,4,4,2,1,3,2,2,2,1
+ORG-029,Vichayo,Sechura,OSPA,Informal,0,0.0,51,2,2,1,1,1,1,2,2,2,2,1
+ORG-030,Barrancos,Sechura,OSPA,Formal,1,22.4,51,3,3,1,2,1,1,3,2,2,2,2
+ORG-031,Chulliyachi,Sechura,OSPA,Formal,1,7.9,16,2,3,2,3,3,2,1,2,3,2,2
+ORG-032,Constante,Sechura,AMYPE,Formal,1,21.0,17,1,2,2,1,3,1,1,1,3,3,3
+ORG-033,Matacaballo,Sechura,AMYPE,Formal,1,1.2,50,1,1,2,2,2,2,2,3,2,2,2
+ORG-034,San Pedro,Sechura,OSPA,Informal,0,0.0,50,1,1,2,2,1,1,1,1,1,1,1
+ORG-035,Nonura,Sechura,OSPA,Informal,0,0.0,50,2,2,3,2,2,2,1,2,1,1,1
+ORG-036,Chulliyachi,Sechura,Empresa,Formal,1,6.3,26,1,1,1,2,1,2,1,1,1,2,2
+ORG-037,Vichayo,Sechura,OSPA,Informal,0,0.0,50,1,1,2,2,2,1,3,2,2,2,3
+ORG-038,Las Delicias,Sechura,OSPA,Formal,1,3.7,13,1,1,1,1,1,2,3,2,1,3,1
+ORG-039,Barrancos,Sechura,AMYGE,Formal,1,21.2,59,3,2,2,3,3,3,3,3,3,4,4
+ORG-040,San Pedro,Sechura,OSPA,Formal,1,21.3,27,2,2,4,3,2,3,3,2,2,3,3
+ORG-041,Barrancos,Sechura,OSPA,Informal,0,0.0,16,3,2,3,3,1,2,2,1,2,2,2
+ORG-042,San Pedro,Sechura,OSPA,Informal,0,0.0,8,1,2,1,2,1,1,1,2,2,3,1
+ORG-043,Constante,Sechura,OSPA,Formal,1,5.0,46,2,3,2,2,1,1,3,1,1,2,2
+ORG-044,Las Delicias,Sechura,AMYPE,Formal,1,16.6,18,2,2,3,2,1,2,2,2,2,2,2
+ORG-045,Nonura,Sechura,OSPA,Informal,0,0.0,8,2,3,2,3,3,4,3,2,3,2,2
+ORG-046,San Pedro,Sechura,OSPA,Informal,0,0.0,15,1,1,2,1,2,1,1,1,1,1,2
+ORG-047,Vichayo,Sechura,OSPA,Formal,1,16.0,30,1,1,1,1,1,1,3,1,2,1,1
+ORG-048,Nonura,Sechura,OSPA,Formal,1,12.2,58,2,3,3,3,2,3,3,3,3,3,4
+ORG-049,Parachique,Sechura,AMYPE,Formal,1,15.3,38,2,2,2,2,2,3,2,2,2,1,1
+ORG-050,Puerto Rico,Sechura,OSPA,Informal,0,0.0,30,3,2,2,3,5,4,4,4,5,4,3
+ORG-051,Matacaballo,Sechura,OSPA,Formal,1,10.8,36,4,2,2,3,2,2,3,4,3,2,2
+ORG-052,Barrancos,Sechura,OSPA,Informal,0,0.0,36,3,3,4,2,2,2,1,2,3,3,3
+ORG-053,Puerto Rico,Sechura,OSPA,Formal,1,8.7,16,3,3,2,3,2,2,3,4,2,3,2
+ORG-054,Constante,Sechura,OSPA,Formal,1,12.9,10,3,3,4,3,2,3,4,2,1,3,2
+ORG-055,Las Delicias,Sechura,OSPA,Formal,1,4.4,16,2,1,1,2,1,2,1,2,1,1,2
+ORG-056,Chulliyachi,Sechura,OSPA,Formal,1,13.8,11,3,3,2,2,2,2,1,2,3,1,4
+ORG-057,Parachique,Sechura,OSPA,Formal,1,7.1,46,2,3,3,2,3,2,3,4,3,1,2
+ORG-058,Constante,Sechura,OSPA,Informal,0,0.0,39,1,3,1,2,1,1,1,1,1,1,2
+ORG-059,Vichayo,Sechura,OSPA,Informal,0,0.0,46,3,3,4,4,3,3,2,2,2,3,3
+ORG-060,Constante,Sechura,AMYPE,Formal,1,18.1,25,1,2,3,2,2,1,1,2,1,1,2
+ORG-061,Puerto Rico,Sechura,OSPA,Formal,1,9.1,34,1,2,2,4,4,2,2,3,3,3,2
+ORG-062,Chulliyachi,Sechura,OSPA,Formal,1,2.0,23,2,3,3,2,2,3,3,2,3,3,1
+ORG-063,San Pedro,Sechura,OSPA,Informal,0,0.0,40,2,4,3,4,3,2,3,1,2,2,2
+ORG-064,Chulliyachi,Sechura,OSPA,Formal,1,7.7,16,1,2,3,2,2,2,3,2,2,2,2
+ORG-065,Constante,Sechura,AMYGE,Formal,1,7.9,11,2,1,2,3,1,1,1,1,1,1,1
+ORG-066,Las Delicias,Sechura,Empresa,Formal,1,3.3,47,3,3,3,2,1,3,2,2,3,2,1
+ORG-067,Puerto Rico,Sechura,OSPA,Informal,0,0.0,18,1,1,1,2,1,2,2,2,3,1,1
+ORG-068,Parachique,Sechura,OSPA,Informal,0,0.0,56,2,1,2,1,1,2,2,2,2,2,2
+ORG-069,Puerto Rico,Sechura,AMYPE,Formal,1,3.6,22,1,3,2,2,2,3,1,2,2,3,3
+ORG-070,Puerto Rico,Sechura,OSPA,Informal,0,0.0,27,2,1,1,2,2,2,2,2,2,2,3
+ORG-071,Vichayo,Sechura,OSPA,Formal,1,4.8,47,2,2,2,3,1,1,2,1,2,1,1
+ORG-072,Barrancos,Sechura,OSPA,Formal,1,9.8,27,3,4,3,3,2,3,4,3,2,2,3
+ORG-073,Barrancos,Sechura,AMYPE,Formal,1,9.4,18,4,3,2,3,1,2,2,1,2,3,3
+ORG-074,Barrancos,Sechura,Empresa,Formal,1,20.7,23,3,2,2,2,1,3,2,3,1,1,1
+ORG-075,Puerto Rico,Sechura,AMYPE,Formal,1,19.3,48,3,2,1,2,2,1,1,2,2,1,2
+ORG-076,Puerto Rico,Sechura,OSPA,Formal,1,11.0,17,3,2,3,3,2,3,2,2,3,2,2
+ORG-077,Parachique,Sechura,OSPA,Formal,1,16.7,31,3,2,2,2,2,3,1,2,2,2,1
+ORG-078,Nonura,Sechura,Empresa,Formal,1,27.1,24,3,3,4,3,1,3,2,3,3,3,2
+ORG-079,Chulliyachi,Sechura,OSPA,Formal,1,5.4,28,3,1,3,2,2,3,2,2,2,2,3
+ORG-080,Parachique,Sechura,OSPA,Formal,1,4.6,50,2,2,2,2,1,1,1,1,1,1,2
+ORG-081,Vichayo,Sechura,OSPA,Informal,0,0.0,41,1,1,1,2,1,1,1,2,1,1,1
+ORG-082,Vichayo,Sechura,OSPA,Informal,0,0.0,12,2,3,2,4,1,3,2,2,2,2,1
+ORG-083,Parachique,Sechura,OSPA,Informal,0,0.0,44,1,2,3,1,2,2,2,3,3,3,3
+ORG-084,San Pedro,Sechura,OSPA,Formal,1,9.7,50,3,3,3,2,2,2,2,2,4,2,1
+ORG-085,Chulliyachi,Sechura,OSPA,Formal,1,16.0,41,2,1,2,2,2,1,2,2,2,3,4
+ORG-086,Chulliyachi,Sechura,OSPA,Formal,1,24.7,10,2,2,2,3,2,1,3,3,2,3,3
+ORG-087,Parachique,Sechura,OSPA,Formal,1,3.8,34,3,3,4,2,2,2,1,2,2,1,2
+ORG-088,Vichayo,Sechura,OSPA,Formal,1,13.9,35,3,3,3,1,1,2,1,2,1,1,2
+ORG-089,Parachique,Sechura,OSPA,Formal,1,35.9,9,3,3,2,3,2,2,3,2,3,3,2
+ORG-090,Puerto Rico,Sechura,AMYPE,Formal,1,19.0,47,1,2,1,2,1,1,1,1,1,1,1
+ORG-091,Vichayo,Sechura,AMYGE,Informal,0,0.0,15,2,1,1,2,1,1,1,1,1,2,1
+ORG-092,Parachique,Sechura,OSPA,Formal,1,4.6,25,2,4,3,3,2,2,2,1,1,1,2
+ORG-093,Las Delicias,Sechura,Empresa,Formal,1,23.0,24,4,3,3,4,2,2,2,3,1,1,2
+ORG-094,Puerto Rico,Sechura,AMYPE,Informal,0,0.0,53,2,3,3,2,1,2,1,1,2,1,2
+ORG-095,Parachique,Sechura,OSPA,Informal,0,0.0,57,2,2,2,1,4,3,2,1,2,2,1
+ORG-096,Nonura,Sechura,OSPA,Informal,0,0.0,47,2,1,2,2,1,1,1,1,2,1,1
+ORG-097,Las Delicias,Sechura,OSPA,Formal,1,5.0,26,3,2,2,3,1,2,2,1,3,1,1
+ORG-098,Puerto Rico,Sechura,AMYGE,Informal,0,0.0,41,1,2,1,2,2,1,1,2,1,1,3
+ORG-099,Puerto Rico,Sechura,OSPA,Informal,0,0.0,41,1,1,2,1,2,3,3,3,2,3,3
+ORG-100,Barrancos,Sechura,OSPA,Informal,0,0.0,26,2,2,2,1,2,2,2,1,1,2,2
+ORG-101,San Pedro,Sechura,AMYPE,Informal,0,0.0,21,4,2,2,2,1,1,2,1,1,1,1
+ORG-102,Puerto Rico,Sechura,OSPA,Formal,1,1.0,15,3,1,2,3,2,2,2,3,2,3,3
+ORG-103,San Pedro,Sechura,OSPA,Formal,1,12.0,31,4,2,2,4,4,4,3,3,4,3,3
+ORG-104,Puerto Rico,Sechura,OSPA,Informal,0,0.0,38,2,2,1,2,2,2,3,1,2,1,3
+ORG-105,Las Delicias,Sechura,AMYPE,Formal,1,10.8,45,4,2,3,3,3,3,2,2,2,4,3
+ORG-106,Constante,Sechura,OSPA,Formal,1,18.7,18,3,3,3,4,4,4,3,4,3,4,3
+ORG-107,Nonura,Sechura,OSPA,Formal,1,5.4,41,2,2,2,2,3,1,2,1,2,3,3
+ORG-108,Chulliyachi,Sechura,AMYPE,Formal,1,11.0,53,1,1,3,2,3,2,1,1,2,4,3
+ORG-109,San Pedro,Sechura,OSPA,Informal,0,0.0,48,1,1,1,2,1,2,3,2,1,2,2
+ORG-110,San Pedro,Sechura,OSPA,Formal,1,15.3,53,4,1,1,1,2,2,3,2,3,2,1
+ORG-111,Nonura,Sechura,OSPA,Formal,1,13.5,49,4,5,3,4,3,2,1,2,3,3,3
+ORG-112,Parachique,Sechura,OSPA,Informal,0,0.0,33,2,3,2,3,2,2,1,1,2,3,3
+ORG-113,Vichayo,Sechura,OSPA,Informal,0,0.0,59,2,3,3,3,2,3,2,3,2,3,2
+ORG-114,Las Delicias,Sechura,OSPA,Informal,0,0.0,43,1,2,1,2,1,1,1,1,1,1,2
+ORG-115,Matacaballo,Sechura,OSPA,Formal,1,4.8,31,2,2,2,2,2,1,3,2,3,2,2
+ORG-116,Las Delicias,Sechura,OSPA,Informal,0,0.0,45,2,4,3,3,3,1,3,2,2,2,2
+ORG-117,Nonura,Sechura,OSPA,Formal,1,6.6,56,3,2,3,2,3,2,2,3,2,3,3
+ORG-118,Constante,Sechura,OSPA,Formal,1,8.3,25,3,4,4,3,2,2,1,1,2,2,1
+ORG-119,Puerto Rico,Sechura,OSPA,Formal,1,9.6,8,3,2,1,2,2,3,2,1,2,3,2
+ORG-120,Barrancos,Sechura,OSPA,Formal,1,7.6,15,3,3,3,3,3,2,2,3,3,2,3
+ORG-121,San Pedro,Sechura,OSPA,Informal,0,0.0,45,3,2,2,2,1,3,1,3,1,2,3
+ORG-122,Barrancos,Sechura,AMYPE,Formal,1,10.1,30,3,2,3,2,1,2,1,2,1,2,2
+ORG-123,Parachique,Sechura,OSPA,Formal,1,8.0,9,2,2,3,2,2,1,1,2,1,1,1
+ORG-124,Constante,Sechura,OSPA,Informal,0,0.0,34,2,1,2,1,1,2,1,1,1,1,2
+ORG-125,Vichayo,Sechura,OSPA,Informal,0,0.0,55,2,2,3,1,1,3,1,2,2,2,2
+ORG-126,Chulliyachi,Sechura,OSPA,Informal,0,0.0,44,1,1,2,2,1,1,2,1,2,1,1
+ORG-127,San Pedro,Sechura,OSPA,Informal,0,0.0,56,3,3,3,2,2,3,3,3,2,2,3
+ORG-128,San Pedro,Sechura,AMYPE,Informal,0,0.0,43,4,4,5,4,2,2,3,2,3,3,2
+ORG-129,Matacaballo,Sechura,OSPA,Formal,1,14.8,11,4,3,3,2,3,2,2,2,2,2,2
+ORG-130,Chulliyachi,Sechura,OSPA,Informal,0,0.0,10,3,2,2,2,2,3,4,2,4,4,3
+ORG-131,Nonura,Sechura,Empresa,Formal,1,29.2,49,2,2,3,3,1,3,2,2,3,2,2
+ORG-132,San Pedro,Sechura,OSPA,Formal,1,19.5,55,4,3,2,2,3,1,2,3,2,2,3
+ORG-133,Parachique,Sechura,AMYPE,Informal,0,0.0,35,2,3,1,3,3,2,1,2,3,1,2
+ORG-134,Chulliyachi,Sechura,AMYPE,Formal,1,0.8,18,2,4,2,4,1,3,1,2,1,2,1
+ORG-135,Matacaballo,Sechura,OSPA,Informal,0,0.0,52,2,1,3,2,2,2,3,3,2,3,1
+ORG-136,Barrancos,Sechura,OSPA,Formal,1,11.8,20,1,1,1,2,2,2,1,2,2,3,3
+ORG-137,San Pedro,Sechura,AMYPE,Formal,1,6.7,48,1,2,2,1,1,2,1,2,1,1,1
+ORG-138,Puerto Rico,Sechura,AMYPE,Formal,1,20.1,12,1,1,2,1,1,2,2,2,2,2,2
+ORG-139,Chulliyachi,Sechura,OSPA,Formal,1,8.1,31,4,3,3,4,2,3,4,2,4,3,4
+ORG-140,Vichayo,Sechura,OSPA,Informal,0,0.0,33,2,1,3,2,3,2,2,1,1,1,1
+ORG-141,Nonura,Sechura,OSPA,Informal,0,0.0,37,3,2,2,3,2,3,4,2,2,2,3
+ORG-142,Puerto Rico,Sechura,OSPA,Formal,1,6.3,56,3,2,2,1,1,1,2,2,1,3,2
+ORG-143,Parachique,Sechura,OSPA,Formal,1,1.2,40,1,2,1,1,2,1,1,2,1,2,1
+ORG-144,Chulliyachi,Sechura,OSPA,Formal,1,6.0,42,2,1,4,3,2,3,2,3,1,2,2
+ORG-145,Puerto Rico,Sechura,Empresa,Formal,1,2.2,50,2,1,1,2,1,3,2,1,1,1,2
+ORG-146,Nonura,Sechura,OSPA,Formal,1,3.8,33,2,2,1,2,2,2,3,1,3,2,2
+ORG-147,Barrancos,Sechura,OSPA,Informal,0,0.0,45,3,3,3,3,2,3,3,2,3,2,1
+ORG-148,Vichayo,Sechura,OSPA,Formal,1,11.4,52,2,1,2,1,2,3,1,3,3,2,3
+ORG-149,Matacaballo,Sechura,OSPA,Formal,1,12.6,9,2,3,3,1,2,1,1,1,2,1,2
+ORG-150,San Pedro,Sechura,OSPA,Formal,1,11.1,57,1,2,2,3,1,2,3,1,2,2,1
+ORG-151,Constante,Sechura,AMYGE,Formal,1,11.2,52,3,1,2,1,2,3,2,2,1,2,1
+ORG-152,San Pedro,Sechura,OSPA,Informal,0,0.0,37,1,2,2,2,3,4,5,4,3,4,4
+ORG-153,Matacaballo,Sechura,OSPA,Formal,1,2.8,41,3,4,3,2,2,3,3,1,1,2,4
+ORG-154,Puerto Rico,Sechura,OSPA,Informal,0,0.0,49,1,1,1,1,2,2,1,1,1,1,1
+ORG-155,Puerto Rico,Sechura,OSPA,Informal,0,0.0,40,1,2,2,2,2,2,3,3,3,2,1
+ORG-156,Nonura,Sechura,OSPA,Formal,1,4.7,59,3,2,2,3,2,2,2,2,1,2,2
+ORG-157,Las Delicias,Sechura,AMYPE,Formal,1,6.6,41,3,2,3,2,1,1,1,1,2,2,1
+ORG-158,San Pedro,Sechura,OSPA,Formal,1,1.5,9,1,2,2,1,2,2,2,2,1,2,3
+ORG-159,Parachique,Sechura,OSPA,Formal,1,0.3,22,4,4,2,4,3,3,3,2,3,2,2
+ORG-160,Puerto Rico,Sechura,AMYPE,Formal,1,11.5,38,3,3,3,4,3,3,2,1,1,2,4

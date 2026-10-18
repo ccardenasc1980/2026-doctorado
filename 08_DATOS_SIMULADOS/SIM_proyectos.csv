@@ -1,0 +1,41 @@
+pry_id,programa,anio,monto_soles,helice_ejecutor,linea_tematica,alineado_pna
+PRY-001,PROCOMPITE,2026,322800.0,Sociedad civil,Semilla/hatchery,1
+PRY-002,PNIPA,2023,540900.0,Gobierno,Cultivo,0
+PRY-003,PNIPA,2022,702100.0,Empresa,Procesamiento,1
+PRY-004,PNIPA,2024,213600.0,Gobierno,Semilla/hatchery,1
+PRY-005,ProInnóvate,2019,111200.0,Sociedad civil,Monitoreo,1
+PRY-006,PNIPA,2026,3468200.0,Sociedad civil,Capacitación,1
+PRY-007,Fospibay,2026,146600.0,Empresa,Monitoreo,1
+PRY-008,ProInnóvate,2024,89100.0,Empresa,Semilla/hatchery,0
+PRY-009,FONDEMI,2019,205700.0,Sociedad civil,Monitoreo,0
+PRY-010,PNIPA,2026,316400.0,Gobierno,Semilla/hatchery,0
+PRY-011,Cooperación,2020,363700.0,Gobierno,Semilla/hatchery,0
+PRY-012,Fospibay,2024,191600.0,Sociedad civil,Economía circular,0
+PRY-013,Inversión pública,2021,451000.0,Empresa,Monitoreo,1
+PRY-014,Inversión pública,2021,1589900.0,Sociedad civil,Cultivo,0
+PRY-015,Inversión pública,2022,190600.0,Gobierno,Semilla/hatchery,0
+PRY-016,Inversión pública,2026,280700.0,Empresa,Monitoreo,0
+PRY-017,PNIPA,2022,1141700.0,Empresa,Semilla/hatchery,1
+PRY-018,ProInnóvate,2020,94500.0,Empresa,Semilla/hatchery,1
+PRY-019,PROCOMPITE,2026,77800.0,Sociedad civil,Cultivo,0
+PRY-020,Cooperación,2022,130500.0,Sociedad civil,Capacitación,1
+PRY-021,Inversión pública,2023,238900.0,Sociedad civil,Semilla/hatchery,1
+PRY-022,PROCOMPITE,2023,681300.0,Gobierno,Cultivo,0
+PRY-023,PROCOMPITE,2025,49000.0,Gobierno,Monitoreo,1
+PRY-024,Inversión pública,2023,133300.0,Gobierno,Cultivo,1
+PRY-025,Inversión pública,2019,84200.0,Gobierno,Capacitación,0
+PRY-026,ProInnóvate,2024,51400.0,Empresa,Semilla/hatchery,0
+PRY-027,PROCOMPITE,2021,70300.0,Gobierno,Cultivo,1
+PRY-028,FONDEMI,2023,583900.0,Gobierno,Capacitación,0
+PRY-029,FONDEMI,2019,297900.0,Sociedad civil,Cultivo,1
+PRY-030,ProInnóvate,2019,315900.0,Gobierno,Monitoreo,0
+PRY-031,Fospibay,2021,509600.0,Sociedad civil,Semilla/hatchery,1
+PRY-032,FONDEMI,2025,423000.0,Empresa,Cultivo,1
+PRY-033,PNIPA,2026,419100.0,Gobierno,Cultivo,1
+PRY-034,Inversión pública,2024,1954800.0,Gobierno,Monitoreo,1
+PRY-035,Cooperación,2020,539400.0,Empresa,Monitoreo,1
+PRY-036,Inversión pública,2019,15700.0,Gobierno,Semilla/hatchery,1
+PRY-037,FONDEMI,2019,485700.0,Sociedad civil,Monitoreo,0
+PRY-038,PNIPA,2023,736600.0,Empresa,Cultivo,0
+PRY-039,PNIPA,2024,450500.0,Academia,Economía circular,1
+PRY-040,PROCOMPITE,2020,143400.0,Empresa,Comercialización,0

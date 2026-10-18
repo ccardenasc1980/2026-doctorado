@@ -1,0 +1,32 @@
+archivo,variable,etiqueta,definicion,tipo,valores_permitidos,unidad,fuente_prevista,variable_tesis,dimension,objetivo,sensibilidad
+organizaciones.csv,org_id,Código de organización,Identificador anónimo asignado por el script de anonimización,texto,ORG-001 a ORG-999,,Generado,Identificador,,Todos,Publicable
+organizaciones.csv,zona_produccion,Zona de producción,Área de producción de la bahía según SANIPES,categórica,Chulliyachi; Matacaballo; Las Delicias; Constante; Parachique; Barrancos; Vichayo; Puerto Rico; Nonura; San Pedro,,Catastro Acuícola / SANIPES,Contexto,,OE1,Publicable agregada
+organizaciones.csv,provincia,Provincia,Provincia de Piura donde opera,categórica,Sechura; Paita; Talara,,Catastro Acuícola,Contexto,,OE1,Publicable
+organizaciones.csv,tipo_organizacion,Tipo de organización,Forma organizativa del productor,categórica,OSPA; AMYPE; AMYGE; Empresa,,Padrón DIREPRO,Contexto,,OE1,Publicable
+organizaciones.csv,formalidad,Condición de formalidad,Formal = derecho acuícola vigente y habilitación sanitaria; informal = carece de alguno,categórica,Formal; Informal,,Padrón DIREPRO + Catastro,Variable de contexto,,OE1,SENSIBLE: solo agregada (mín. 5 por celda)
+organizaciones.csv,tiene_concesion,Tiene concesión,Cuenta con derecho acuícola vigente,binaria,0; 1,,Catastro Acuícola,Contexto,,OE1,Publicable agregada
+organizaciones.csv,area_ha,Área de cultivo,Superficie del derecho acuícola,numérica,>= 0,ha,Catastro Acuícola,Contexto,,OE1,Publicable agregada
+organizaciones.csv,n_socios,Número de socios,Socios activos de la organización,entera,>= 1,personas,Encuesta,Contexto,,OE2,Publicable agregada
+organizaciones.csv,md_trazabilidad,Trazabilidad digital,Registro digital del cultivo a la exportación,ordinal,1 a 5,escala Likert,Encuesta,VD Madurez digital,Trazabilidad,OE3,Publicable
+organizaciones.csv,md_registro,Registro digital productivo,Registro digital de siembra; mortalidad y condiciones,ordinal,1 a 5,escala Likert,Encuesta,VD Madurez digital,Registro,OE3,Publicable
+organizaciones.csv,md_monitoreo,Monitoreo ambiental,Uso de sensores o alertas de temperatura y oxígeno,ordinal,1 a 5,escala Likert,Encuesta,VD Madurez digital,Monitoreo,OE3,Publicable
+organizaciones.csv,md_interoperabilidad,Interoperabilidad,Intercambio de datos con empresas y entidades públicas,ordinal,1 a 5,escala Likert,Encuesta,VD Madurez digital,Interoperabilidad,OE3,Publicable
+organizaciones.csv,md_uso_datos,Uso de datos para decidir,Decisiones productivas o comerciales basadas en datos,ordinal,1 a 5,escala Likert,Encuesta,VD Madurez digital,Uso de datos,OE3,Publicable
+organizaciones.csv,md_capacidades,Capacidades digitales,Equipamiento; competencias y gobernanza de datos,ordinal,1 a 5,escala Likert,Encuesta,VD Madurez digital,Capacidades,OE3,Publicable
+organizaciones.csv,md_continuidad,Continuidad tecnológica,Soluciones que siguen operando tras el financiamiento,ordinal,1 a 5,escala Likert,Encuesta,VD Madurez digital,Continuidad,OE3,Publicable
+organizaciones.csv,gp_seleccion,Selección de proyectos,Criterios explícitos para elegir proyectos,ordinal,1 a 5,escala Likert,Encuesta,VI Gestión de portafolios,Selección,OE3,Publicable
+organizaciones.csv,gp_priorizacion,Priorización,Ordenamiento de proyectos según objetivos,ordinal,1 a 5,escala Likert,Encuesta,VI Gestión de portafolios,Priorización,OE3,Publicable
+organizaciones.csv,gp_gobernanza,Gobernanza,Instancias y roles que deciden sobre los proyectos,ordinal,1 a 5,escala Likert,Encuesta,VI Gestión de portafolios,Gobernanza,OE3,Publicable
+organizaciones.csv,gp_beneficios,Realización de beneficios,Seguimiento de beneficios después del cierre,ordinal,1 a 5,escala Likert,Encuesta,VI Gestión de portafolios,Beneficios,OE3,Publicable
+proyectos.csv,pry_id,Código de proyecto,Identificador asignado,texto,PRY-001 a PRY-999,,Generado,Identificador,,OE1,Publicable
+proyectos.csv,programa,Programa de financiamiento,Fondo o fuente,categórica,PROCOMPITE; ProInnóvate; PNIPA; FONDEMI; Fospibay; Cooperación; Inversión pública; Otro,,Expedientes,VI Gestión de portafolios,Selección,OE1,Publicable
+proyectos.csv,anio,Año de aprobación,Año en que se aprobó o firmó,entera,2014 a 2026,año,Expedientes,Contexto,,OE1,Publicable
+proyectos.csv,monto_soles,Monto total,Monto total incluida contrapartida,numérica,> 0,S/,Expedientes,Contexto,,OE1,Publicable
+proyectos.csv,helice_ejecutor,Hélice del ejecutor,Hélice a la que pertenece el ejecutor principal,categórica,Gobierno; Academia; Empresa; Sociedad civil,,Expedientes,VI Articulación de hélices,,OE2,Publicable
+proyectos.csv,linea_tematica,Línea temática,Problema que ataca el proyecto,categórica,Semilla/hatchery; Monitoreo; Cultivo; Procesamiento; Comercialización; Capacitación; Economía circular,,Expedientes,VI Gestión de portafolios,Alineamiento,OE1,Publicable
+proyectos.csv,alineado_pna,Alineado a la Política Nacional de Acuicultura,El objetivo del proyecto corresponde a un objetivo prioritario de la PNA 2030,binaria,0; 1,,Análisis documental,VI Gestión de portafolios,Alineamiento,OE1,Publicable
+proyectos.csv,duplicidad,Posible duplicidad,Comparte línea temática y zona con otro proyecto del mismo periodo,binaria,0; 1,,Calculado (script 03),VI Gestión de portafolios,Alineamiento,OE1,Publicable
+red_actores.csv,origen,Actor origen,Código del actor que inicia el vínculo,texto,ORG-xxx o ACT-xxx,,Entrevistas,VI Articulación de hélices,,OE2,Publicable
+red_actores.csv,destino,Actor destino,Código del actor que recibe el vínculo,texto,ORG-xxx o ACT-xxx,,Entrevistas,VI Articulación de hélices,,OE2,Publicable
+red_actores.csv,tipo_vinculo,Tipo de vínculo,Naturaleza de la relación,categórica,Financiamiento; Información; Técnico; Comercial,,Entrevistas,VI Articulación de hélices,,OE2,Publicable
+red_actores.csv,intensidad,Intensidad,Frecuencia de interacción en el último año,ordinal,1 a 3,1=esporádica; 3=frecuente,Entrevistas,VI Articulación de hélices,,OE2,Publicable
